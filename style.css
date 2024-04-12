@@ -1,0 +1,22 @@
+h1 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: cadetblue;
+    text-align: center;
+    font-size: 45px;
+    
+}
+body {
+    background-color: rgb(255, 226, 189);
+}
+h3 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 30px;
+}
+p {
+    font-size: 20px;
+}
+#opção {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: red;
+    font-size: large;
+}
